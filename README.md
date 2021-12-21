@@ -38,7 +38,10 @@ for (const file of eventFiles) {
   events folder, then change the bot name, owner name and channel to log to.
   
   And done. You now have a fully functional message logger that logs to console and discord
-  
+
+## Screenshots:
+![screenshot](https://cdn.discordapp.com/attachments/914218618781302874/922975030575501342/unknown.png "Proof of it working")
+
 ## Important:
 THIS IS ONLY INTENDED TO LOG **ONE** DISCORD SERVER.
 LOGGING MULTIPLE DISCORDS IS POSSIBLE BUT MAY BE MESSY.
